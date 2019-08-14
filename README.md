@@ -9,6 +9,7 @@
 
 ## Assignment
 
+
 For this lab you will
 
 - write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the queries.md file under the appropriate heading.
